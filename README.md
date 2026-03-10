@@ -43,14 +43,14 @@ Estrutura do Projeto
 telecom-churn-analysis/
 │
 ├── dados_tratados.csv
-├── telecom_churn_analysis.ipynb
+├── Telecon_X_2.ipynb
 ├── README.md
 
 Descrição dos arquivos:
 
 dados_tratados.csv: Dataset tratado utilizado na análise e modelagem.
 
-telecom_churn_analysis.ipynb: Notebook contendo todo o processo de análise e modelagem.
+Telecon_X_2.ipynb: Notebook contendo todo o processo de análise e modelagem.
 
 README.md: Documentação do projeto.
 
@@ -169,11 +169,11 @@ Como Executar o Projeto
 
 Clone o repositório
 
-git clone https://github.com/seu-usuario/telecom-churn-analysis.git
+git clone (https://github.com/EvertonSantos3/Chalenge-TeleconX---Parte-2)
 
 Acesse o diretório do projeto
 
-cd telecom-churn-analysis
+cd Telecon_X_2.ipynb
 
 Abra o notebook no Google Colab ou Jupyter Notebook
 
@@ -191,6 +191,6 @@ Este projeto demonstrou como técnicas de análise de dados e Machine Learning p
 
 Além de prever a evasão de clientes, a análise permitiu identificar fatores críticos que podem orientar estratégias de retenção e melhorar a tomada de decisão baseada em dados.
 
-Autor
+Autor Everton
 
 Projeto desenvolvido como parte de um desafio de Análise de Dados e Machine Learning.
