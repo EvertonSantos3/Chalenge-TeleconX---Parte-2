@@ -1,4 +1,4 @@
-# Telecom X — Previsão de Evasão de Clientes (Churn)
+# Telecom X — Parte 2
 Visão Geral
 
 Este projeto tem como objetivo analisar e prever a evasão de clientes (Churn) na empresa fictícia Telecom X utilizando técnicas de análise de dados e Machine Learning.
